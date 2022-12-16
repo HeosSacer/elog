@@ -1,3 +1,8 @@
+# WIP
+
+-------------------------------------------------------
+
+
 # eLog <img src="elog.png" width="60" height="60" alt=":log:" class="emoji" title=":log:"/> [![Build Status](https://github.com/HeosSacer/elog/workflows/CI/badge.svg)](https://github.com/HeosSacer/elog/actions?query=workflow%3ACI) [![Go Reference](https://pkg.go.dev/badge/github.com/sirupsen/logrus.svg)](https://pkg.go.dev/github.com/sirupsen/logrus)
 
 Elog is wrapper around [logrus](https://github.com/sirupsen/logrus) to provide a 
